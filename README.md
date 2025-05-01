@@ -1,1 +1,2 @@
-# Diwali-sales-data-analysis-project
+Diwali-sales-data-analysis-project
+Analyze Diwali sales data to improve customer experience and sales
